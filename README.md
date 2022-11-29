@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="GB2312">
+<meta charset="UTF-8">
  
 <title>刘卓昕的show time</title>
 <link href="css/style.css" rel="stylesheet"></head>
